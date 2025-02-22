@@ -1,102 +1,202 @@
 {
-  "https://auto.ria.com/auto_toyota_sequoia_37586061.html": {
-    "title": "Toyota Sequoia2018",
-    "price": "55 900$•2 338 297грн",
-    "mileage": "48 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_sportster_37364029.html": {
+    "title": "Harley-Davidson Sportster2022",
+    "price": "15 700$•657 830грн",
+    "mileage": "2 тыс. км",
     "photos": [
-      "https://cdn4.riastatic.com/photosnew/auto/photo/toyota_sequoia__578971319bx.jpg"
+      "https://cdn2.riastatic.com/photosnew/auto/photo/harley-davidson_sportster__572922117bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37586061.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_sportster_37364029.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37287543.html": {
-    "title": "Toyota Sequoia2018",
-    "price": "45 000$•1 884 150грн",
-    "mileage": "92 тыс. км",
+  "https://auto.ria.com/newauto/auto-harley-davidson-nightster-1981984.html": {
+    "title": "Harley-Davidson Nightster 9752024",
+    "price": "17 432$•730 406грн",
+    "mileage": "без пробега",
     "photos": [
-      "https://cdn3.riastatic.com/photosnew/auto/photo/toyota_sequoia__570790423bx.jpg"
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-nightster__2643422-341x224x60.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37287543.html",
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-nightster-1981984.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_36181846.html": {
-    "title": "Toyota Sequoia2021",
-    "price": "54 500$•2 282 460грн",
+  "https://auto.ria.com/newauto/auto-harley-davidson-pan-america-1898200.html": {
+    "title": "Harley-Davidson Pan America 1250 Special2021",
+    "price": "19 570$•820 000грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-pan-america__2592506-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-pan-america-1898200.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-pan-america-st-1999812.html": {
+    "title": "Harley-Davidson Pan America ST 1250 (150 к.с.)2025",
+    "price": "22 449$•940 625грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-pan-america-st__2948525-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-pan-america-st-1999812.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-cvo-street-glide-1998717.html": {
+    "title": "Harley-Davidson CVO Street Glide 19002024",
+    "price": "53 252$•2 231 250грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-cvo-street-glide__2928245-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-cvo-street-glide-1998717.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-street-bob-1992810.html": {
+    "title": "Harley-Davidson Street Bob 1923 (155 к.с.)2025",
+    "price": "20 878$•874 781грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-street-bob__2948491-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-street-bob-1992810.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-fat-bob-1992526.html": {
+    "title": "Harley-Davidson Fat Bob 18682024",
+    "price": "25 582$•1 071 875грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-fat-bob__1920659-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-fat-bob-1992526.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-road-glide-1989863.html": {
+    "title": "Harley-Davidson Road Glide 1923 (105 к.с.)2025",
+    "price": "36 337$•1 522 500грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-road-glide__2948616-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-road-glide-1989863.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-low-rider-1987761.html": {
+    "title": "Harley-Davidson Low Rider\t 1923 ST2024",
+    "price": "26 626$•1 115 625грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-low-rider__2765019-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-low-rider-1987761.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-livewire-1917096.html": {
+    "title": "Harley-Davidson LiveWire Vivid Black2020",
+    "price": "17 995$•753 991грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-livewire__1973869-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-livewire-1917096.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/newauto/auto-harley-davidson-sportster-1906974.html": {
+    "title": "Harley-Davidson Sportster 1252 S2024",
+    "price": "20 356$•852 906грн",
+    "mileage": "без пробега",
+    "photos": [
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-sportster__1984424-341x224x60.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-sportster-1906974.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/auto_harley_davidson_low_rider_37080956.html": {
+    "title": "Harley-Davidson Low Rider2020",
+    "price": "17 500$•739 550грн",
     "mileage": "10 тыс. км",
     "photos": [
-      "https://cdn0.riastatic.com/photosnew/auto/photo/toyota_sequoia__540429890bx.jpg"
+      "https://cdn2.riastatic.com/photosnew/auto/photo/harley-davidson_low-rider__564983827bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_36181846.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_low_rider_37080956.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37595666.html": {
-    "title": "Toyota Sequoia2013",
-    "price": "32 400$•1 356 912грн",
-    "mileage": "245 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_1200_sportster_32876162.html": {
+    "title": "Harley-Davidson 1200 Sportster2021",
+    "price": "9 999$•426 357грн",
+    "mileage": "8 тыс. км",
     "photos": [
-      "https://cdn1.riastatic.com/photosnew/auto/photo/toyota_sequoia__579221506bx.jpg"
+      "https://cdn1.riastatic.com/photosnew/auto/photo/harley-davidson_1200-sportster__566094111bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37595666.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_1200_sportster_32876162.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_32774755.html": {
-    "title": "Toyota Sequoia2012",
-    "price": "29 800$•1 246 236грн",
-    "mileage": "170 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_fltrxs_32965694.html": {
+    "title": "Harley-Davidson FLTRXS2020",
+    "price": "30 900$•1 294 710грн",
+    "mileage": "8 тыс. км",
     "photos": [
-      "https://cdn3.riastatic.com/photosnew/auto/photo/toyota_sequoia__573979668bx.jpg"
+      "https://cdn0.riastatic.com/photosnew/auto/photo/harley-davidson_fltrxs__502852590bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_32774755.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_fltrxs_32965694.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37589925.html": {
-    "title": "Toyota Sequoia2015",
-    "price": "31 500$•1 319 220грн",
-    "mileage": "270 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_xl_883n_34642207.html": {
+    "title": "Harley-Davidson XL 883N2020",
+    "price": "10 000$•419 099грн",
+    "mileage": "6 тыс. км",
     "photos": [
-      "https://cdn0.riastatic.com/photosnew/auto/photo/toyota_sequoia__579071665bx.jpg"
+      "https://cdn2.riastatic.com/photosnew/auto/photo/harley-davidson_xl-883n__500232792bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37589925.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_xl_883n_34642207.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_36273423.html": {
-    "title": "Toyota Sequoia2016",
-    "price": "39 000$•1 633 710грн",
-    "mileage": "197 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_883_iron_36995659.html": {
+    "title": "Harley-Davidson 883 Iron2020",
+    "price": "11 000$•461 120грн",
+    "mileage": "7 тыс. км",
     "photos": [
-      "https://cdn4.riastatic.com/photosnew/auto/photo/toyota_sequoia__542877074bx.jpg"
+      "https://cdn4.riastatic.com/photosnew/auto/photo/harley-davidson_883-iron__562577184bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_36273423.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_883_iron_36995659.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37310424.html": {
-    "title": "Toyota Sequoia2018",
-    "price": "46 500$•1 945 095грн",
-    "mileage": "110 тыс. км",
+  "https://auto.ria.com/newauto/auto-harley-davidson-road-glide-2000035.html": {
+    "title": "Harley-Davidson Road Glide 1923 (105 к.с.)2024",
+    "price": "34 974$•1 465 406грн",
+    "mileage": "без пробега",
     "photos": [
-      "https://cdn4.riastatic.com/photosnew/auto/photo/toyota_sequoia__571418049bx.jpg"
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-road-glide__2952500-341x224x60.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37310424.html",
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-road-glide-2000035.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37500741.html": {
-    "title": "Toyota Sequoia2007",
-    "price": "10 999$•460 088грн",
-    "mileage": "343 тыс. км",
+  "https://auto.ria.com/newauto/auto-harley-davidson-softail-standard-1999119.html": {
+    "title": "Harley-Davidson Softail Standard 17452024",
+    "price": "16 706$•700 000грн",
+    "mileage": "без пробега",
     "photos": [
-      "https://cdn2.riastatic.com/photosnew/auto/photo/toyota_sequoia__576643537bx.jpg"
+      "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/harley-davidson-softail-standard__2525765-341x224x60.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37500741.html",
+    "auction_link": "https://auto.ria.com/newauto/auto-harley-davidson-softail-standard-1999119.html",
     "auction_details_link": null
   },
-  "https://auto.ria.com/auto_toyota_sequoia_37458622.html": {
-    "title": "Toyota Sequoia2017",
-    "price": "45 000$•1 880 550грн",
-    "mileage": "190 тыс. км",
+  "https://auto.ria.com/auto_harley_davidson_fxbb_36566952.html": {
+    "title": "Harley-Davidson FXBB2021",
+    "price": "15 650$•655 735грн",
+    "mileage": "7 тыс. км",
     "photos": [
-      "https://cdn0.riastatic.com/photosnew/auto/photo/toyota_sequoia__575509850bx.jpg"
+      "https://cdn0.riastatic.com/photosnew/auto/photo/harley-davidson_fxbb__550900795bx.jpg"
     ],
-    "auction_link": "https://auto.ria.com/auto_toyota_sequoia_37458622.html",
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_fxbb_36566952.html",
+    "auction_details_link": null
+  },
+  "https://auto.ria.com/auto_harley_davidson_cvo_road_glide_34429913.html": {
+    "title": "Harley-Davidson CVO Road Glide2021",
+    "price": "39 500$•1 655 050грн",
+    "mileage": "11 тыс. км",
+    "photos": [
+      "https://cdn1.riastatic.com/photosnew/auto/photo/harley-davidson_cvo-road-glide__494656086bx.jpg"
+    ],
+    "auction_link": "https://auto.ria.com/auto_harley_davidson_cvo_road_glide_34429913.html",
     "auction_details_link": null
   }
 }

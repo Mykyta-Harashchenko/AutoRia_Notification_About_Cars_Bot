@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 
-def scrape_auto_ria() -> list[dict]:
-    url = "https://auto.ria.com/search/?indexName=auto,order_auto,newauto_search&categories.main.id=1&brand.id[0]=79&model.id[0]=2104&country.import.id=840&damage.not=0"
+def scrape_auto_ria(url) -> list[dict]:
+    url = url
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
     }

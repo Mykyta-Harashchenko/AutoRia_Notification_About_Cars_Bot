@@ -4,16 +4,23 @@ import json
 import os
 from pathlib import Path
 from time import time
+from dotenv import load_dotenv
 
-from aiogram import Bot, Dispatcher, html
+
+from aiogram import Bot, Dispatcher, html, F
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 from aiogram.filters import CommandStart
-from aiogram.types import Message
+from aiogram.fsm import state
+from aiogram.fsm.context import FSMContext
+from aiogram.types import Message, ReplyKeyboardMarkup
 from parsers import scrape_auto_ria
+from keyboards import get_start_kb
+from states import FormAutoria
 
+load_dotenv()
 
-TOKEN = '7738647257:AAH8NwOksVaOgt8PXvuuqxKDZv3k0R-PM34'
+TOKEN = os.getenv('BOT_TOKEN')
 JSON_FILE = "sent_cars.json"
 CHECK_INTERVAL = 900
 
@@ -87,10 +94,32 @@ def file_was_modified() -> bool:
         return True
     return False
 
+async def get_combined_kb() -> ReplyKeyboardMarkup:
+    # Отримуємо список кнопок з двох функцій
+    start_button = await get_start_kb()
+
+    # Створюємо клавіатуру з двома кнопками в одному ряді
+    kb = ReplyKeyboardMarkup(
+        keyboard=[[start_button]],  # Додаємо кнопки в один ряд
+        resize_keyboard=True
+    )
+    return kb
 
 @dp.message(CommandStart())
 async def command_start_handler(message: Message) -> None:
-    await message.answer(f"Привіт, {html.bold(message.from_user.full_name)}! Бот запущено.")
+    await message.answer(f"Привіт, {html.bold(message.from_user.full_name)}! Бот запущено.", reply_markup= await get_combined_kb())
+
+
+@dp.message(F.text == 'Поставити нагадування')
+async def notifying_1(message: Message, state: FSMContext):
+    await message.answer('Відправте посилання на вже готовий аукціон з усіма потрібними вимогами')
+    await state.set_state(FormAutoria.title)
+
+@dp.message(FormAutoria.title)
+async def notifying_2(message: Message, state: FSMContext):
+    await state.update_data(name=message.text)
+    await state.clear()
+
     sent_cars = load_sent_cars()  # Завантаження вже відправлених автомобілів
 
     while True:
@@ -98,7 +127,7 @@ async def command_start_handler(message: Message) -> None:
         if file_was_modified():
             sent_cars = load_sent_cars()
 
-        cars = scrape_auto_ria()  # Отримуємо нові автомобілі
+        cars = scrape_auto_ria(message.text)  # Отримуємо нові автомобілі
         current_car_ids = {car["auction_link"] for car in cars}
 
         # Перевіряємо нові автомобілі та зміну ціни

@@ -1,1 +1,5 @@
-'7738647257:AAH8NwOksVaOgt8PXvuuqxKDZv3k0R-PM34'
+from aiogram.fsm.state import StatesGroup, State
+
+
+class FormAutoria(StatesGroup):
+    title = State()
